@@ -1,2 +1,3 @@
 # OwnHash
-OwnHash
+-[] OwnHash
+-[x] tef
