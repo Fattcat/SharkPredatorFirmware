@@ -2,7 +2,7 @@
 <p align="center">Advanced esp32 coding for ethical hacking</p>
 
 <p align="center">
-  <img src="SharkLOGO.jpg" alt="Hungry Shark" width="300"/>
+  <img src="img.jpg" alt="Hungry Shark" width="300"/>
 </p>
 
 - [x] esp32
